@@ -120,7 +120,3 @@ Completed and tested on Arduino Uno.
 * Add autonomous navigation
 * Replace Bluetooth control with a longer-range RF system
 * Add battery voltage monitoring
-
-## License
-
-This project is open source. Feel free to modify and build upon it.
